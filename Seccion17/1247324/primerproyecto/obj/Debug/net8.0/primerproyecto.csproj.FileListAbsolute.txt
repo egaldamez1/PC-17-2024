@@ -1,0 +1,14 @@
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\bin\Debug\net8.0\primerproyecto.exe
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\bin\Debug\net8.0\primerproyecto.deps.json
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\bin\Debug\net8.0\primerproyecto.runtimeconfig.json
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\bin\Debug\net8.0\primerproyecto.dll
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\bin\Debug\net8.0\primerproyecto.pdb
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.AssemblyInfoInputs.cache
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.AssemblyInfo.cs
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.dll
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\refint\primerproyecto.dll
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.pdb
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\primerproyecto.genruntimeconfig.cache
+C:\Users\sansg\OneDrive\Documentos\PensamientoComputacional\1247324\primerproyecto\obj\Debug\net8.0\ref\primerproyecto.dll
