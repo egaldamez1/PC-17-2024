@@ -1,0 +1,14 @@
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.AssemblyInfoInputs.cache
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.AssemblyInfo.cs
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.csproj.CoreCompileInputs.cache
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\bin\Debug\net8.0\T1_EGM_1247324.exe
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\bin\Debug\net8.0\T1_EGM_1247324.deps.json
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\bin\Debug\net8.0\T1_EGM_1247324.runtimeconfig.json
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\bin\Debug\net8.0\T1_EGM_1247324.dll
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\bin\Debug\net8.0\T1_EGM_1247324.pdb
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.dll
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\refint\T1_EGM_1247324.dll
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.pdb
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\T1_EGM_1247324.genruntimeconfig.cache
+C:\Users\sansg\OneDrive\Escritorio\U\T1_EGM_1247324\obj\Debug\net8.0\ref\T1_EGM_1247324.dll
