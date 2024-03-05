@@ -1,0 +1,5 @@
+C:\Users\sansg\OneDrive\Documentos\Visual Studio\L4EGM1247324\L4EGM1247324\obj\Debug\L4EGM1247324.csproj.AssemblyReference.cache
+C:\Users\sansg\OneDrive\Documentos\Visual Studio\L4EGM1247324\L4EGM1247324\obj\Debug\L4EGM1247324.Form1.resources
+C:\Users\sansg\OneDrive\Documentos\Visual Studio\L4EGM1247324\L4EGM1247324\obj\Debug\L4EGM1247324.Properties.Resources.resources
+C:\Users\sansg\OneDrive\Documentos\Visual Studio\L4EGM1247324\L4EGM1247324\obj\Debug\L4EGM1247324.csproj.GenerateResource.cache
+C:\Users\sansg\OneDrive\Documentos\Visual Studio\L4EGM1247324\L4EGM1247324\obj\Debug\L4EGM1247324.csproj.CoreCompileInputs.cache
